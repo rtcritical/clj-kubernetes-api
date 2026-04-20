@@ -2,13 +2,13 @@
 
 Kubernetes client API library for Clojure. Functions are generated using macros derived from offical [swagger spec](http://kubernetes.io/swagger-spec/api/v1).
 
-[![cljdoc documentation](https://cljdoc.org/badge/nubank/kubernetes-api)](https://cljdoc.org/d/nubank/kubernetes-api/)
+[![cljdoc documentation](https://cljdoc.org/badge/rtcritical/kubernetes-api)](https://cljdoc.org/d/rtcritical/kubernetes-api/)
 
 ## Installation
 
 Add the dependency to your `project.clj`.
 
-[![Clojars Project](https://img.shields.io/clojars/v/nubank/kubernetes-api.svg)](https://clojars.org/nubank/kubernetes-api)
+[![Clojars Project](https://img.shields.io/clojars/v/rtcritical/kubernetes-api.svg)](https://clojars.org/rtcritical/kubernetes-api)
 
 ## Usage
 
