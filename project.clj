@@ -1,4 +1,4 @@
-(defproject com.rtcritical/kubernetes-api "1.16.0"
+(defproject rtcritical/kubernetes-api "1.16.0"
   :description "Kubernetes Client API Library"
   :url "https://github.com/rtcritical/clj-kubernetes-api"
   :license {:name "MIT"
